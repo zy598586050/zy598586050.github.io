@@ -18,7 +18,7 @@
 
 - 访问地址：[个人主页](http://www.zhangyubk.com/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
-- ~~使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务~~
+- 使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务
 
 ### 更新时间
 
